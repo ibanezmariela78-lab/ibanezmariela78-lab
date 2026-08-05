@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Mariela Ibáñez 👋
 
-<!--
-**ibanezmariela78-lab/ibanezmariela78-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me interesa la aplicación de la química farmacéutica, la ciencia de datos y la inteligencia artificial al análisis molecular y al descubrimiento de fármacos.
 
-Here are some ideas to get you started:
+## Proyecto destacado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MolPredict EGFR
+
+Plataforma experimental de quimioinformática que permite validar estructuras SMILES, calcular descriptores fisicoquímicos con RDKit, visualizar moléculas y obtener una predicción demostrativa de actividad frente a EGFR.
+
+🔗 [Ver aplicación](https://mol-insight-studio.lovable.app)
+
+💻 [Frontend](https://github.com/ibanezmariela78-lab/molpredict-egfr)
+
+⚙️ [Backend API](https://github.com/ibanezmariela78-lab/molpredict-egfr-api)
+
+## Tecnologías
+
+Python · FastAPI · RDKit · React · TypeScript · GitHub · Replit · Lovable
+
+## Áreas de interés
+
+Química medicinal · Quimioinformática · Ciencia de datos · Inteligencia artificial · Desarrollo de aplicaciones científicas
+
