@@ -1,4 +1,4 @@
-# Hola, soy Mariela Ibañez 👋
+# Hola, soy Mariela Ibañez 
 
 **Ciencia de Datos | Inteligencia Artificial | Machine Learning | Desarrollo de Software | Química y Quimioinformática**
 
